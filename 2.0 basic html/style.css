@@ -1,0 +1,14 @@
+* {
+    margin: 15px;
+    padding: 0px;  
+}
+
+main canvas{
+    position: static;
+    top: 40px;
+    left: 800px;
+
+    box-shadow: 0px 1px 10px #000a;
+}
+
+
